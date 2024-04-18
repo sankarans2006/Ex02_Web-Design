@@ -1,0 +1,19 @@
+<html>
+    <head>
+    <title></title>
+    <h1><center>SAVEETHA ENGINNERING COLLEGE</center></h1>
+    </head>
+<body bgcolor="coral">
+    <h1>List of courses</h1>
+    <ol>
+        <li>Agricultural Engineering</li>
+        <li>Computer science Engineering</li>
+        <li>Electronic Communication Engineering</li>
+    </ol>
+    <h1>Branches under CSE</h1>
+    <ul>
+        <li>Information Tecnology</li>
+        <li>Cyber Security</li>
+    </ul>
+</body>
+</html>
