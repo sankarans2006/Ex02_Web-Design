@@ -26,12 +26,12 @@
     <title></title>
     <h1><center>SAVEETHA ENGINNERING COLLEGE</center></h1>
     </head>
-<body bgcolor="coral">
+<body bgcolor="bisque">
     <h1>List of courses</h1>
     <ol>
-        <li>Agricultural Engineering</li>
+        <li>Chemical Engineering</li>
         <li>Computer science Engineering</li>
-        <li>Electronic Communication Engineering</li>
+        <li>Bio Medical Engineering</li>
     </ol>
     <h1>Branches under CSE</h1>
     <ul>
@@ -42,7 +42,7 @@
 </html>
 ```
 ## OUTPUT
+![alt text](<Screenshot (3).png>)
 
-![alt text](<Screenshot (808).png>)
 ## RESULT
   List of Departments in an Institution is created successfully.
